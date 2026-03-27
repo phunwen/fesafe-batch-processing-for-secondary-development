@@ -1,0 +1,150 @@
+<!DOCTYPE settings>
+<root>
+    <!--fe-safe Settings File-->
+    <meta version="3"/>
+    <data>
+        <group name="job">
+            <enumerator name="type">general</enumerator>
+            <group name="material databases">
+                <array size="1" name="materials">
+                    <entry index="0">
+                        <group name="material">
+                            <file name="database">C:/Users/86183/Documents/fe-safe.2020/local.dbase</file>
+                            <string name="fatigue strength coefficient (sf')">-9999</string>
+                            <string name="fatigue ductility coefficient (Ef')">-9999</string>
+                            <string name="fatigue strength exponent (b)">-9999</string>
+                            <string name="fatigue ductility exponent (c)">-9999</string>
+                            <string name="K'">-9999</string>
+                            <string name="Young's modulus">7000</string>
+                            <string name="ultimate tensile strength">89.6</string>
+                            <string name="n'">-9999</string>
+                            <string name="CAEL">1E6</string>
+                            <string name="0.2% Buch proof stress">-9999</string>
+                            <string name="material name">CopyOf_SAE_950C-Manten~1</string>
+                            <string name="temperature list">0</string>
+                            <group name="stress-life curve">
+                                <string name="control series">67.20999908, 60.04000092, 54.65999985</string>
+                                <string name="sample series">2135, 3476, 6892</string>
+                            </group>
+                            <group name="torsion-life curve">
+                                <string name="control series">-9999</string>
+                                <string name="sample series">-9999</string>
+                            </group>
+                            <string name="R ratio list">-9999</string>
+                            <group name="strain-life curve">
+                                <string name="control series">-9999</string>
+                                <string name="sample series">-9999</string>
+                            </group>
+                            <group name="stress-strain curve">
+                                <string name="control series">-9999</string>
+                                <string name="sample series">-9999</string>
+                            </group>
+                            <string name="strain rate list">0</string>
+                            <string name="hours list">0 1</string>
+                            <string name="initial compressive stresses">-9999</string>
+                            <string name="initial tensile stresses">-9999</string>
+                            <string name="pre-soak factor">1</string>
+                            <string name="Weibull slope">3</string>
+                            <string name="Weibull minimum">0.25</string>
+                            <string name="ultimate compressive strength">-9999</string>
+                            <string name="tensile secant slope">-9999</string>
+                            <string name="compressive K'">-9999</string>
+                            <string name="compressive n'">-9999</string>
+                            <string name="compressive secant slope">-9999</string>
+                            <string name="modulus of unloading">-9999</string>
+                            <string name="SWT coefficient">-9999</string>
+                            <string name="SWT exponent">-9999</string>
+                            <string name="fatigue strength exponent above knee (b2)">-9999</string>
+                            <string name="life curve knee">-9999</string>
+                            <string name="in-phase loading factor">-9999</string>
+                            <string name="out-of-phase loading factor">-9999</string>
+                            <string name="compressive relaxed stresses">-9999</string>
+                            <string name="tensile relaxed stresses">-9999</string>
+                            <string name="Dang Van endurance limit stress">-9999</string>
+                            <string name="Dang Van stress ratio">-9999</string>
+                            <string name="Poisson's ratio">0.407</string>
+                            <string name="algorithm">NormalStress:-Smith-Watson-Topper</string>
+                            <string name="class">Other</string>
+                            <string name="units">Use system default</string>
+                            <group name="creep">
+                                <string name="monotonic K'">-9999</string>
+                                <string name="monotonic n'">-9999</string>
+                                <string name="damage to harden">-9999</string>
+                                <string name="strain rates">-9999</string>
+                                <string name="ductility values">-9999</string>
+                                <string name="strain list">-9999</string>
+                                <string name="stress list">-9999</string>
+                                <string name="strain table">-9999</string>
+                                <string name="stress table">-9999</string>
+                                <string name="temperature threshold">-9999</string>
+                                <string name="fatigue percentage values">-9999</string>
+                                <string name="creep percentage values">-9999</string>
+                            </group>
+                            <string name="quality">Use only as an example; Kth; Sbw and Tw have notional values</string>
+                            <string name="source">-9999</string>
+                            <string name="comment 1">c:\material_data\manten_ref1.html</string>
+                            <string name="comment 2">Copied from SAE_950C-Manten</string>
+                            <string name="revision number">78</string>
+                            <string name="revision date">Sat Jan 24 18:04:28 2026</string>
+                            <string name="revision history">SN curve modified at v5.01-01</string>
+                            <string name="default MSC">"C:\CAE\win_b64\Durability_resources\database\goodman.msc"</string>
+                            <string name="threshold stress intensity factor">-9999</string>
+                            <string name="critical distance">-9999</string>
+                            <string name="alternating shear stress">-9999</string>
+                            <string name="alternating bending fatigue strength">-9999</string>
+                            <group name="fully reversed">
+                                <string name="fatigue ductility coefficient (Ef')">-9999</string>
+                                <string name="fatigue ductility exponent (c)">-9999</string>
+                            </group>
+                            <group name="plastic reversed by creep">
+                                <string name="fatigue ductility coefficient (Ef')">-9999</string>
+                                <string name="fatigue ductility exponent (c)">-9999</string>
+                            </group>
+                            <group name="creep reversed by plastic">
+                                <string name="fatigue ductility coefficient (Ef')">-9999</string>
+                                <string name="fatigue ductility exponent (c)">-9999</string>
+                            </group>
+                            <string name="Walker gamma (r is positive)">-9999</string>
+                            <string name="Walker gamma (r is negative)">-9999</string>
+                            <string name="Default knock-down curve">-9999</string>
+                            <string name="static fatigue strength coefficient (sf)">-9999</string>
+                            <string name="fkm material">-9999</string>
+                            <string name="elongation">-9999</string>
+                            <string name="grey iron index">None</string>
+                            <string name="Convert SN To TN">0.58</string>
+                        </group>
+                    </entry>
+                </array>
+                <enumerator name="material source">any</enumerator>
+            </group>
+            <array size="1" name="groups">
+                <entry index="0">
+                    <group name="group">
+                        <string name="number">0</string>
+                        <string name="group name">Default</string>
+                        <string name="display name">Default</string>
+                        <string name="algorithm">NormalStress</string>
+                        <string name="mean stress correction">Smith-Watson-Topper</string>
+                        <real name="surface finish">2</real>
+                        <string name="surface description">2</string>
+                        <string name="surface description file">UserDefinedKt</string>
+                        <integer name="subgroup">1</integer>
+                        <file name="user MSC file"/>
+                        <string name="frf life">Infinite</string>
+                    </group>
+                </entry>
+            </array>
+            <group name="probability">
+                <string name="target lives"/>
+            </group>
+            <group name="exports">
+                <group name="results">
+                    <file name="FER file">./jobs/job_01/fe-results/fesafe.fer</file>
+                </group>
+            </group>
+            <file name="loading file">./jobs/job_01/current.ldf</file>
+            <file name="output file">./jobs/job_01/fe-results/Job_run3Results.odb</file>
+            <string name="loading mode">LDF</string>
+        </group>
+    </data>
+</root>

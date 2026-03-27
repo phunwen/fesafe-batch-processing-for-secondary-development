@@ -1,0 +1,12 @@
+
+# .ldf file created by fe-safe 2020[mswin]
+
+INIT
+transitions=Yes
+END
+
+# Block number 1
+BLOCK
+ds=2-1200
+END
+
