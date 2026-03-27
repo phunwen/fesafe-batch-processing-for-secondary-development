@@ -1,10 +1,3 @@
-# fesafe-batch-processing-for-secondary-development
-Batch processing of finite element simulation results was carried out using fe-safe
-
-
-# fesafe-batch-processing-for-secondary-development
-Batch processing of finite element simulation results was carried out using fe-safe
-
 # fe-safe-batch-processing-for-secondary-development
 Batch automated fatigue life processing for Abaqus `.odb` results using **fe-safe_cl.exe** (command-line version of fe-safe).
 
